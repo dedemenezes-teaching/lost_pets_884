@@ -1,24 +1,9 @@
-# README
+# SEE ALL PETS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# SEE INFORMATION ABOUT ONE PET
 
-Things you may want to cover:
+# AS A USER, CAN CREATE A PET
 
-* Ruby version
+# AS A USER, I CAN EDIT A PET
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# AS A USER, I CAN DELETE A PET
